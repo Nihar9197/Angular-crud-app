@@ -6,7 +6,7 @@
       "lastName": "Zatakiya",
       "emailId": "knihar22@gmail.com",
       "mobileNo": "08980202049",
-      "salary": "200"
+      "salary": "2001"
     },
     {
       "id": 3,
@@ -33,28 +33,12 @@
       "id": 5
     },
     {
-      "firstName": "tst1",
-      "lastName": "cdscs",
-      "emailId": "wfwefw@gmail.com",
-      "mobileNo": "",
-      "salary": "",
-      "id": 6
-    },
-    {
-      "firstName": "sdgcsd",
-      "lastName": "vdfvs",
-      "emailId": "HSD@GMAIL.COM",
-      "mobileNo": "",
-      "salary": "",
-      "id": 7
-    },
-    {
-      "firstName": "sdgcsd",
-      "lastName": "vdfvs",
-      "emailId": "HSD@GMAIL.COM",
-      "mobileNo": "",
-      "salary": "2000",
-      "id": 8
+      "firstName": "Nihardscsd",
+      "lastName": "Zatakiya",
+      "emailId": "knihar22@gmail.com",
+      "mobileNo": "08980202049",
+      "salary": "200",
+      "id": 9
     }
   ],
   "comments": [],
