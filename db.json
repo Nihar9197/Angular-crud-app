@@ -1,18 +1,63 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": 2,
+      "firstName": "Nihar",
+      "lastName": "Zatakiya",
+      "emailId": "knihar22@gmail.com",
+      "mobileNo": "08980202049",
+      "salary": "200"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "firstName": "Nihar",
+      "lastName": "Zatakiya",
+      "emailId": "knihar22@gmail.com",
+      "mobileNo": "08980202049",
+      "salary": "200"
+    },
+    {
+      "id": 4,
+      "firstName": "Nihar",
+      "lastName": "Zatakiya",
+      "emailId": "knihar22@gmail.com",
+      "mobileNo": "08980202049",
+      "salary": "200"
+    },
+    {
+      "firstName": "test1",
+      "lastName": "test1",
+      "emailId": "123@gmailcom",
+      "mobileNo": "2445453",
+      "salary": "200",
+      "id": 5
+    },
+    {
+      "firstName": "tst1",
+      "lastName": "cdscs",
+      "emailId": "wfwefw@gmail.com",
+      "mobileNo": "",
+      "salary": "",
+      "id": 6
+    },
+    {
+      "firstName": "sdgcsd",
+      "lastName": "vdfvs",
+      "emailId": "HSD@GMAIL.COM",
+      "mobileNo": "",
+      "salary": "",
+      "id": 7
+    },
+    {
+      "firstName": "sdgcsd",
+      "lastName": "vdfvs",
+      "emailId": "HSD@GMAIL.COM",
+      "mobileNo": "",
+      "salary": "2000",
+      "id": 8
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
