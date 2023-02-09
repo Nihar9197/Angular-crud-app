@@ -58,6 +58,10 @@
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "generatedatatool:build",
+            "proxyConfig": "src/proxy.cong.json"
+          },
           "configurations": {
             "production": {
               "browserTarget": "my-crud-app:build:production"

@@ -44,7 +44,7 @@ export class EmloyeeDashboardComponent {
       this.employeeModelObj.salary = this.formValue.value.salary;
 
       this.apiService.postEmployee(this.employeeModelObj).subscribe(res => {
-        console.log(res);
+        console.log("res is : ",res);
         alert("Employee added successfully")
         let ref = document.getElementById("cancel")
         ref?.click();
@@ -52,7 +52,7 @@ export class EmloyeeDashboardComponent {
         this.getAllEmployee();
       },
       err =>{
-        alert("something went wrong");
+        alert( "something went wrong");
       })
     }
 
